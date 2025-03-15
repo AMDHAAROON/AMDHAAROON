@@ -28,8 +28,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mohamed Haaroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhaaroon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhaaroon&layout=compact&theme=radical)  
+![Mohamed Haaroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMDHAAROON&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMDHAAROON&layout=compact&theme=radical)  
 
 ---
 
