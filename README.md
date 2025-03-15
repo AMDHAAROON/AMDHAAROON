@@ -27,9 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Mohamed Haaroon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMDHAAROON&show_icons=true&theme=radical) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMDHAAROON&show_icons=true&theme=radical)
+### 📊 Language Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMDHAAROON&layout=compact&theme=radical)  
 
